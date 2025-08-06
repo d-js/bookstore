@@ -1,0 +1,9 @@
+export const API_GET_BOOKS = "/books"
+export const API_POST_REGISTER = "/auth/register";
+export const API_POST_LOGIN = "/auth/login";
+export const API_GET_MY_CART = "/cart/me";
+export const API_POST_CHECKOUT = "/cart/checkout";
+export const API_GET_PROFILE = "/profiles/me";
+export const API_PATCH_ADD_TO_BAG = "/cart-items/me/add";
+export const API_POST_SHIPPING_INFO = "/profiles/shipping-info/add";
+export const API_GET_SHIPPING_INFO = "/profiles/me/shipping-info";
